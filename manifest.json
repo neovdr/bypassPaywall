@@ -22,5 +22,5 @@
 
 	"permissions": [ "cookies",
 		"*://*.baltimoresun.com/", "*://*.barrons.com/", "*://*.chicagobusiness.com/", "*://*.chicagotribune.com/", "*://*.dailypress.com/", "*://*.economist.com/", "*://*.ft.com/", "*://*.courant.com/", "*://*.hbr.org/", "*://*.inc.com/", "*://*.jacksonville.com/", "*://*.latimes.com/", "*://*.mcall.com/", "*://*.medscape.com/", "*://*.newyorker.com/", "*://*.orlandosentinel.com/", "*://*.quora.com/", "*://*.telegraph.co.uk/", "*://*.theage.com.au/", "*://*.thenation.com/", "*://*.tribdss.com/", "*://*.smh.com.au/", "*://*.sun-sentinel.com/", "*://*.washingtonpost.com/", "*://*.wsj.com/", "*://*.seattletimes.com/", "*://*.glassdoor.com/", "*://*.nytimes.com/", "*://.theaustralian.com.au/", "*://*.theaustralian.com.au/", "*://*.nikkei.com/", "storage", "webRequest", "webRequestBlocking"],
-	"version": "1.0.3"
+	"version": "1.0.4"
 }
